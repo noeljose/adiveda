@@ -1,0 +1,129 @@
+{
+    "phoneNumbers" : {
+        "india" : {
+            "code"   : "+91",
+            "number" : "7306118938",
+            "flags"   : {
+                "32x" : "https://www.countryflags.io/in/flat/32.png",
+                "64x" : "https://www.countryflags.io/in/flat/64.png"
+            }
+        },
+        "newZealand" :{
+            "code"   : "+64",
+            "number" : "022135017",
+            "flags"   : {
+                "32x" : "https://www.countryflags.io/nz/flat/32.png",
+                "64x" : "https://www.countryflags.io/nz/flat/64.png"
+            }
+        }
+    },
+
+    "office" : {
+
+        "office1" :{
+            "title" : "REGISTERED OFFICE",
+            "flags"   : {
+                "32x" : "https://www.countryflags.io/in/flat/32.png",
+                "64x" : "https://www.countryflags.io/in/flat/64.png"
+            },
+            "address": "Buiding No- 204, Ottasekharamangalam, Thiruvananthapuram, Kerala, India",
+            "code" : "+91" ,
+            "mobile" : [
+                "7306118938"
+            ]
+
+        },
+        "office2" :{
+            "title" : "CENTRAL ADMINISTRATIVE OFFICE",
+            "flags"   : {
+                "32x" : "https://www.countryflags.io/in/flat/32.png",
+                "64x" : "https://www.countryflags.io/in/flat/64.png"
+            },
+            "address": "SNDP Building, Mariyappally P.O Kottayam, Kerala, India - 686 013",
+            "code" : "+0481" ,
+            "mobile" : [
+                "2361210"
+            ]
+
+        },
+        "office3" :{
+            "title" : "CORPORATE OFFICE",
+            "flags"   : {
+                "32x" : "https://www.countryflags.io/in/flat/32.png",
+                "64x" : "https://www.countryflags.io/in/flat/64.png"
+            },
+            "address": "2nd floor, No.1/414 A, Mambakkam Main Road, Medavakkam, Chennai, India - 600 100",
+            "code" : "+91" ,
+            "mobile" : [
+                "9976089117"
+            ]
+
+        },
+        "office4" :{
+            "title" : "CO-COORDINATOR (KERALA)",
+            "flags"   : {
+                "32x" : "https://www.countryflags.io/in/flat/32.png",
+                "64x" : "https://www.countryflags.io/in/flat/64.png"
+            },
+            "address": "SNDP Building, Mariyappally P.O Kottayam, Kerala, India - 686 013",
+            "code" : "+91" ,
+            "mobile" : [
+                "9976089117"
+            ]
+
+        },
+        "office5" :{
+            "title" : "STUDENTS SUPPORT",
+            "flags"   : {
+                "32x" : "https://www.countryflags.io/in/flat/32.png",
+                "64x" : "https://www.countryflags.io/in/flat/64.png"
+            },
+            "address": "CONTACT NUMBERS, (if the numbers failed to connect please add '00'to the number",
+            "code" : "+91" ,
+            "mobile" : [
+                "7736198207",
+                "7902367270"
+            ]
+
+        },
+        "office6" :{
+            "title" : "INTERNATIONAL COURSE CORDINATOR",
+            "flags"   : {
+                "32x" : "https://www.countryflags.io/nz/flat/32.png",
+                "64x" : "https://www.countryflags.io/nz/flat/64.png"
+            },
+            "address": "2nd floor, No.1/414 A, Mambakkam Main Road, Medavakkam, Chennai, India - 600 100",
+            "code" : "+64" ,
+            "mobile" : [
+                "276114966"
+            ]
+
+        },
+        "office7" :{
+            "title" : "INTERNATIONAL OFFICE",
+            "flags"   : {
+                "32x" : "https://www.countryflags.io/nz/flat/32.png",
+                "64x" : "https://www.countryflags.io/nz/flat/64.png"
+            },
+            "address": "31 Carters Road, Wainoni, Christchurch 8061, New Zealand",
+            "code" : "+64" ,
+            "mobile" : [
+                "0221350177"
+            ]
+
+        },
+        "office8" :{
+            "title" : "INTERNATIONAL OFFICE (MEXICO)",
+            "flags"   : {
+                "32x" : "https://www.countryflags.io/mx/flat/32.png",
+                "64x" : "https://www.countryflags.io/mx/flat/64.png"
+            },
+            "address": "31 Carters Road, Wainoni, Christchurch 8061, New Zealand",
+            "code" : "+64" ,
+            "mobile" : [
+                "0221350177"
+            ]
+
+        }
+    }
+}
