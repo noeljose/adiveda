@@ -18,9 +18,9 @@
         }
     },
 
-    "office" : {
+    "office" : [
 
-        "office1" :{
+        {
             "title" : "REGISTERED OFFICE",
             "flags"   : {
                 "32x" : "https://www.countryflags.io/in/flat/32.png",
@@ -33,7 +33,7 @@
             ]
 
         },
-        "office2" :{
+        {
             "title" : "CENTRAL ADMINISTRATIVE OFFICE",
             "flags"   : {
                 "32x" : "https://www.countryflags.io/in/flat/32.png",
@@ -46,7 +46,7 @@
             ]
 
         },
-        "office3" :{
+        {
             "title" : "CORPORATE OFFICE",
             "flags"   : {
                 "32x" : "https://www.countryflags.io/in/flat/32.png",
@@ -59,7 +59,7 @@
             ]
 
         },
-        "office4" :{
+        {
             "title" : "CO-COORDINATOR (KERALA)",
             "flags"   : {
                 "32x" : "https://www.countryflags.io/in/flat/32.png",
@@ -72,7 +72,7 @@
             ]
 
         },
-        "office5" :{
+        {
             "title" : "STUDENTS SUPPORT",
             "flags"   : {
                 "32x" : "https://www.countryflags.io/in/flat/32.png",
@@ -86,7 +86,7 @@
             ]
 
         },
-        "office6" :{
+        {
             "title" : "INTERNATIONAL COURSE CORDINATOR",
             "flags"   : {
                 "32x" : "https://www.countryflags.io/nz/flat/32.png",
@@ -99,7 +99,7 @@
             ]
 
         },
-        "office7" :{
+        {
             "title" : "INTERNATIONAL OFFICE",
             "flags"   : {
                 "32x" : "https://www.countryflags.io/nz/flat/32.png",
@@ -112,7 +112,7 @@
             ]
 
         },
-        "office8" :{
+        {
             "title" : "INTERNATIONAL OFFICE (MEXICO)",
             "flags"   : {
                 "32x" : "https://www.countryflags.io/mx/flat/32.png",
@@ -125,5 +125,5 @@
             ]
 
         }
-    }
+    ]
 }
