@@ -78,7 +78,7 @@
                 "32x" : "https://www.countryflags.io/in/flat/32.png",
                 "64x" : "https://www.countryflags.io/in/flat/64.png"
             },
-            "address": "CONTACT NUMBERS,(if the numbers failed to connect please add '00'to the number)",
+            "address": "CONTACT NUMBERS, <br />(if the numbers failed to connect please add '00'to the number)",
             "code" : "+91" ,
             "mobile" : [
                 "7736198207",
